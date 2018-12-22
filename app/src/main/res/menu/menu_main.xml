@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="nada.esiea.org.weatherapp.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_location"
+        android:orderInCategory="10"
+        android:title="Find My Location"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/languages"
+        android:orderInCategory="11"
+        android:title="Languages"
+        app:showAsAction="never" />
+
+</menu>
