@@ -1,6 +1,6 @@
 Projet_Nada_Miri_4A_FSI1
 
-Description:
+#Description:
 Application mobile android.
 Application meteo, qui utilise la localisation du mobile de son utilisateur, afin de fournir des informations concernant la meteo locale. 
 L'utilisateur peut egalement consulter la meteo d'une autre ville, en l'ajoutant a la liste, il peut egalement retirer les dites villes de la liste des villes dont la meteo est affcihée. 
